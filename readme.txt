@@ -1,1 +1,0 @@
-Para rodar o modelo, execute no MATLAB o arquivo BLDC_RUN.m, ele irá carregar todas as variáveis relevantes para simulação e abrir o modelo do Simulink BLDC_CTRL_MODELO.SLX.
